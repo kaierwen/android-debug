@@ -1,0 +1,2 @@
+include ':example', ':library-beagle-java', ':library-beagle-kotlin'
+rootProject.name='android-debug'
